@@ -1,5 +1,5 @@
 package com.example.youtubeapi
 
-const val Fragment1_TAG = "Fragment1"
-const val Fragment2_TAG = "Fragment2"
-const val Fragment3_TAG = "Fragment3"
+const val HomeFragment_TAG = "Home"
+const val SearchFragment_TAG = "Search"
+const val MyVideoFragment_TAG = "MyVideo"

@@ -22,3 +22,15 @@ object RetrofitClient {
         retrofit.create(RemoteDataSource::class.java)
     }
 }
+
+/**
+ *
+ *
+ * Youtube Video List api
+ *      GET https://developers.google.com/youtube/v3/docs/videos/list?hl=ko
+ *
+ * Youtube Video Category api
+ *      GET https://www.googleapis.com/youtube/v3/videoCategories
+ *
+ *
+ * */
